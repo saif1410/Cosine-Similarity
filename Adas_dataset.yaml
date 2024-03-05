@@ -1,0 +1,6 @@
+train: ../datasets/Adas_dataset/images/train
+val: ../datasets/Adas_dataset/images/valid
+test: ../datasets/Adas_dataset/images/test
+
+nc: 5
+names: ['car', 'truck', 'pedestrian', 'bicyclist','light']
